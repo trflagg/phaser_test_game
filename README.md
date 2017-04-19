@@ -1,11 +1,7 @@
-# phaser_starter_pack
-A starting point for making a game with Phaser.io
+# phaser_test_game
+This is to get used to phaser and play around.
 
-# Requirements
-The `build` and `run` commands depend on having `browserify`, `watchify`, and `http-server` installed globally:
-```
-npm install -g browserify watchify http-server
-```
+Forked from https://github.com/trflagg/phaser_starter_package
 
 # Commands
 To run local dev server:
