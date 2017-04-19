@@ -1,0 +1,16 @@
+{
+  "name": "phaser_starter_pack",
+  "version": "0.1.0",
+  "description": "A starting point for making phaser games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/trflagg/phaser_starter_pack.git",
+  "author": "Taylor Flagg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trflagg/phaser_starter_pack/issues"
+  },
+  "homepage": "https://github.com/trflagg/phaser_starter_pack#readme"
+}
